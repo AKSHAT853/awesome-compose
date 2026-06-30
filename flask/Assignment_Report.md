@@ -1,7 +1,6 @@
 # Cloud Intern Assignment
 
-## Candidate
-Akshat Shukla
+
 
 ## Objective
 Deploy a Python Flask application using Docker.
